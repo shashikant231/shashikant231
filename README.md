@@ -17,7 +17,7 @@
 
 
 ### Languages and Tools:
-[<img align="right" alt="Django" width="26px" src="https://ostechnix.com/wp-content/uploads/2016/05/Django-Framework.png" />][Django]
+[<img align="left" alt="Django" width="26px" src="https://ih1.redbubble.net/image.399557438.5366/raf,750x1000,075,t,oatmeal_heather.u2.jpg" />][Django]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 
 
