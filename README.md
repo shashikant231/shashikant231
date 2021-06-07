@@ -4,9 +4,9 @@
 ## I'm a Backend Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play football , read books and meeting new people.
+- 👯 I’m looking to work for  projects that matches my skilllset
+- 🥅 2021 Goals: 
+- ⚡ Fun fact: I love to play football , reading books and meeting new people.
 
 
 
@@ -14,11 +14,9 @@
 
 
 
-
-
 ### Languages and Tools:
-[<img align="left" alt="Django" width="26px" src="https://ih1.redbubble.net/image.399557438.5366/raf,750x1000,075,t,oatmeal_heather.u2.jpg" />]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="Django" width="36px" src="https://ih1.redbubble.net/image.399557438.5366/raf,750x1000,075,t,oatmeal_heather.u2.jpg" />]
+[<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 
 
 
