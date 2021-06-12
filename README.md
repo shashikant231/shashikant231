@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to work for  projects that matches my skilllset
-- 🥅 2021 Goals: 
+- 🥅 2021 Goals: Dive deep into the backend stuff
 - ⚡ Fun fact: I love to play football , reading books and meeting new people.
 
 
