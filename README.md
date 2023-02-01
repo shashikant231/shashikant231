@@ -3,10 +3,9 @@
 
 ## I'm a Backend Developer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to work for  projects that matches my skilllset
-- 🥅 2021 Goals: Dive deep into the backend stuff
-- ⚡ Fun fact: I love to play football , reading books and meeting new people.
+- 🌱 I’m currently looking for a job as golang/python developer.
+- 🥅 2023 Goals: Be an independent developer and consume and write tons of code
+- ⚡ Fun fact: I love playing football, reading books and meeting new people.Currently reading Kafka on the shore by murakami
 
 
 
