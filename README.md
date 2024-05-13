@@ -3,7 +3,6 @@
 
 ## I'm a Backend Developer!!
 
-- 🌱 I’m currently looking for a job as python/golang developer.
 - 🥅 2024 Goals: Be an independent developer and consume and write tons of code
 - ⚡ Fun fact: I love playing football, reading books and meeting new people.
 
