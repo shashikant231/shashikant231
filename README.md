@@ -3,19 +3,8 @@
 
 ## I'm a Backend Developer!!
 
-- 🥅 2024 Goals: Be an independent developer and consume and write tons of code
+- 🥅 2024 Goals: Be an independent developer and consume and write tons of code.
 - ⚡ Fun fact: I love playing football, reading books and meeting new people.
-
-
-
-### Connect with me:
-
-
-
-### Languages and Tools:
-[<img align="left" alt="Gopher" width="36px" src="https://go.dev/blog/gopher/logo.png" />]
-[<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-
 
 
 ### 📕 Latest Blog Posts
